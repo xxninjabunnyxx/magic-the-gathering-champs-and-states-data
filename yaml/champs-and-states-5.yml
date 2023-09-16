@@ -1,0 +1,121 @@
+---
+object: card
+id: 6f5725dc-82a7-48b3-857e-7ccbf3726cbd
+oracle_id: 5a620d20-f14e-43d0-8e57-c2a197e2ec51
+multiverse_ids: []
+tcgplayer_id: 38056
+cardmarket_id: 18999
+name: Urza's Factory
+lang: en
+released_at: '2006-10-21'
+uri: https://api.scryfall.com/cards/6f5725dc-82a7-48b3-857e-7ccbf3726cbd
+scryfall_uri: https://scryfall.com/card/pcmp/5/urzas-factory?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/6/f/6f5725dc-82a7-48b3-857e-7ccbf3726cbd.jpg?1562384954
+  normal: https://cards.scryfall.io/normal/front/6/f/6f5725dc-82a7-48b3-857e-7ccbf3726cbd.jpg?1562384954
+  large: https://cards.scryfall.io/large/front/6/f/6f5725dc-82a7-48b3-857e-7ccbf3726cbd.jpg?1562384954
+  png: https://cards.scryfall.io/png/front/6/f/6f5725dc-82a7-48b3-857e-7ccbf3726cbd.png?1562384954
+  art_crop: https://cards.scryfall.io/art_crop/front/6/f/6f5725dc-82a7-48b3-857e-7ccbf3726cbd.jpg?1562384954
+  border_crop: https://cards.scryfall.io/border_crop/front/6/f/6f5725dc-82a7-48b3-857e-7ccbf3726cbd.jpg?1562384954
+mana_cost: ''
+cmc: 0.0
+type_line: Land — Urza's
+oracle_text: |-
+  {T}: Add {C}.
+  {7}, {T}: Create a 2/2 colorless Assembly-Worker artifact creature token.
+colors: []
+color_identity: []
+keywords: []
+produced_mana:
+- C
+all_parts:
+- object: related_card
+  id: e72daa68-0680-431c-a616-b3693fd58813
+  component: token
+  name: Assembly-Worker
+  type_line: Token Artifact Creature — Assembly-Worker
+  uri: https://api.scryfall.com/cards/e72daa68-0680-431c-a616-b3693fd58813
+- object: related_card
+  id: 6f5725dc-82a7-48b3-857e-7ccbf3726cbd
+  component: combo_piece
+  name: Urza's Factory
+  type_line: Land — Urza's
+  uri: https://api.scryfall.com/cards/6f5725dc-82a7-48b3-857e-7ccbf3726cbd
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: 3bbd8312-611e-4479-9658-ac96482b97ae
+set: pcmp
+set_name: Champs and States
+set_type: promo
+set_uri: https://api.scryfall.com/sets/3bbd8312-611e-4479-9658-ac96482b97ae
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apcmp&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pcmp?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/6f5725dc-82a7-48b3-857e-7ccbf3726cbd/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A5a620d20-f14e-43d0-8e57-c2a197e2ec51&unique=prints
+collector_number: '5'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Mark Tedin
+artist_ids:
+- 9ee9a9cc-c09e-486f-918b-69f80cbc4188
+illustration_id: 3f6e4964-ef09-437d-9338-1346883a3376
+border_color: black
+frame: '2003'
+full_art: true
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- tourney
+edhrec_rank: 4237
+penny_rank: 159
+prices:
+  usd: '13.99'
+  usd_foil: 
+  usd_etched: 
+  eur: '4.00'
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Urza%27s+Factory&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Urza%27s+Factory&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Urza%27s+Factory
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/38056?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Urza%27s+Factory&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Urza%27s+Factory&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
